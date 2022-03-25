@@ -1,3 +1,40 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name" translatable="false">Calculatrice S4 WEB</string>
+
+    <string name="bouton_Calculer">Calculer</string>
+    <string name="bouton_Dernier_Calcul">Dernier Calcul</string>
+
+    <string name="bouton_multiplier" translatable="false">*</string>
+    <string name="bouton_diviser" translatable="false">/</string>
+    <string name="bouton_additionner" translatable="false">+</string>
+    <string name="bouton_soustraire" translatable="false">-</string>
+
+    <string name="bouton_sept" translatable="false">7</string>
+    <string name="bouton_huit" translatable="false">8</string>
+    <string name="bouton_neuf" translatable="false">9</string>
+    <string name="bouton_quatre" translatable="false">4</string>
+    <string name="bouton_cinq" translatable="false">5</string>
+    <string name="bouton_six" translatable="false">6</string>
+    <string name="bouton_un" translatable="false">1</string>
+    <string name="bouton_deux" translatable="false">2</string>
+    <string name="bouton_trois" translatable="false">3</string>
+    <string name="bouton_zero" translatable="false">0</string>
+
+    <string name="bouton_validation">Valider</string>
+    <string name="bouton_moins" translatable="false">-</string>
+    <string name="bouton_effacer" translatable="false">⌫</string>
+    <string name="bouton_menu" translatable="false">←</string>
+
+    <string name="saisir">Saisir</string>
+    <string name="bouton_Retour">Retour</string>
+    <string name="bouton_clear">Effacer</string>
+
+    <string name="succes">Correct</string>
+    <string name="echec">Faux</string>
+
+    <string name="annonce_Derniers_Calculs">5 derniers calculs :</string>
+
+    <string name="derniersCalculs" translatable="false">TextView textViewCalcul = findViewById(R.id.lastCompute_textViewCalcul);</string>
+    <string name="bouton_calcul">bouton_calcul</string>
+    <string name="bouton_nettoyer">bouton_nettoyer</string>
 </resources>

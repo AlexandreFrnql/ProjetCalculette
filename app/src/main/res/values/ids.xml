@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bouton_Calculer" type="id">bouton_Calculer</item>
+    <item name="bouton_dernier_calcul" type="id">bouton_dernier_calcul</item>
+    <item name="toolbarCalculer" type="id">toolbarCalculer</item>
+    <item name="toolbarVider" type="id">toolbarVider</item>
+</resources>
